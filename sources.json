@@ -19,7 +19,7 @@
       "id": "it",
       "name": "Italy — historical railway network (1839–1930)",
       "type": "github",
-      "path": "openhistorymap/italia_treni",
+      "repo": "openhistorymap/italia_treni",
       "ref": "main",
       "path": "/"
     }
