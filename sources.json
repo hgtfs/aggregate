@@ -22,6 +22,14 @@
       "repo": "openhistorymap/italia_treni",
       "ref": "main",
       "path": "/"
+    },
+    {
+      "id": "cliwoc",
+      "name": "World oceans — CLIWOC ship logbooks (1662–1855)",
+      "type": "github",
+      "repo": "openhistorymap/cliwoc",
+      "ref": "main",
+      "path": "hgtfs"
     }
   ]
 }

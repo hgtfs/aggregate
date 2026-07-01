@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-HGTFS Aggregate — global rail history,https://hgtfs.github.io/,en,18270228,20130101,hgtfs-aggregate
+HGTFS Aggregate — global rail history,https://hgtfs.github.io/,en,16520101,20130101,hgtfs-aggregate

@@ -1196,3 +1196,11 @@ it:linea_m3,it:FS,19050101,,rule,high,MAIN
 it:metropolitana_di_genova,it:FS,19050101,,rule,high,MAIN
 it:passante_ferroviario_di_milano,it:FS,19050101,,rule,high,MAIN
 it:prealpino_sant_eufemia,it:FS,19050101,,rule,high,MAIN
+cliwoc:DE,cliwoc:DE,17970627,,CLIWOC C1,medium,
+cliwoc:DK,cliwoc:DK,17980310,,CLIWOC C1,medium,
+cliwoc:ES,cliwoc:ES,17451222,,CLIWOC C1,medium,
+cliwoc:FR,cliwoc:FR,17460623,,CLIWOC C1,medium,
+cliwoc:NL,cliwoc:NL,16621016,,CLIWOC C1,medium,
+cliwoc:SE,cliwoc:SE,17480221,,CLIWOC C1,medium,
+cliwoc:UK,cliwoc:UK,17500102,,CLIWOC C1,medium,
+cliwoc:US,cliwoc:US,18070708,,CLIWOC C1,medium,

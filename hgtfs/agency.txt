@@ -1003,3 +1003,11 @@ it:RS,Società per le Strade Ferrate della Sicilia (Rete Sicula),https://en.wiki
 it:FS,Ferrovie dello Stato (Azienda autonoma delle Ferrovie dello Stato),https://it.wikipedia.org/wiki/Statalizzazione_delle_ferrovie_italiane,Europe/Rome,it,19050701,,"Legge 1905-04-22 n.137 ('legge Fortis'), in vigore 1905-07-01; ancora attiva."
 it:CRFS,Compagnia Reale delle Ferrovie Sarde,https://it.wikipedia.org/wiki/Compagnia_Reale_delle_Ferrovie_Sarde,Europe/Rome,it,18630101,19200101,"Sardegna, scartamento ordinario; fondata 1863. Riscatto statale legge 1919, subentro 1920."
 it:SFSS,Società italiana per le Strade Ferrate Secondarie della Sardegna,https://it.wikipedia.org/wiki/Società_italiana_per_le_Strade_Ferrate_Secondarie_della_Sardegna,Europe/Rome,it,18860101,19210101,"Sardegna, scartamento ridotto 950mm; rete completata 1889; assorbita in FCS 1921."
+cliwoc:DE,Germany,https://cliwoc.org/,Etc/UTC,en,17970627,,Flag nationality from CLIWOC column C1.
+cliwoc:DK,Denmark,https://cliwoc.org/,Etc/UTC,en,17980310,,Flag nationality from CLIWOC column C1.
+cliwoc:ES,Spain,https://cliwoc.org/,Etc/UTC,en,17451222,,Flag nationality from CLIWOC column C1.
+cliwoc:FR,France,https://cliwoc.org/,Etc/UTC,en,17460623,,Flag nationality from CLIWOC column C1.
+cliwoc:NL,Netherlands,https://cliwoc.org/,Etc/UTC,en,16621016,,Flag nationality from CLIWOC column C1.
+cliwoc:SE,Sweden,https://cliwoc.org/,Etc/UTC,en,17480221,,Flag nationality from CLIWOC column C1.
+cliwoc:UK,United Kingdom,https://cliwoc.org/,Etc/UTC,en,17500102,,Flag nationality from CLIWOC column C1.
+cliwoc:US,United States,https://cliwoc.org/,Etc/UTC,en,18070708,,Flag nationality from CLIWOC column C1.
