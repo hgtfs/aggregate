@@ -1,0 +1,841 @@
+from_stop_id,to_stop_id,route_id,date_opened,date_closed,evidence,line_name
+ITHS00002,ITHS00384,,,,current_only,
+ITHS00002,ITHS01988,,,,current_only,
+ITHS00003,ITHS03145,ferrovia_mortara_milano,18540101,,dated_line,ferrovia Mortara-Milano
+ITHS00004,ITHS01013,,,,current_only,
+ITHS00004,ITHS03202,,,,current_only,
+ITHS00005,ITHS00276,,,,current_only,
+ITHS00007,ITHS00550,ferrovia_roma_cassino_napoli,18420101,,dated_line,ferrovia Roma-Cassino-Napoli
+ITHS00007,ITHS00643,ferrovia_roma_cassino_napoli,18420101,,dated_line,ferrovia Roma-Cassino-Napoli
+ITHS00009,ITHS00568,,,,current_only,
+ITHS00010,ITHS00568,,,,current_only,
+ITHS00010,ITHS00625,,,,current_only,
+ITHS00019,ITHS01243,,,,current_only,
+ITHS00022,ITHS02832,ferrovia_alessandria_san_giuseppe_di_cairo,18580101,,dated_line,ferrovia Alessandria-San Giuseppe di Cairo
+ITHS00029,ITHS02096,,,,current_only,
+ITHS00036,ITHS00772,,,,current_only,
+ITHS00036,ITHS00783,,,,current_only,
+ITHS00037,ITHS01824,,,,current_only,
+ITHS00037,ITHS02662,ferrovia_airasca_saluzzo,18840101,19860101,dated_line,ferrovia Airasca-Saluzzo
+ITHS00040,ITHS00202,,,,current_only,
+ITHS00041,ITHS01506,,,,current_only,
+ITHS00042,ITHS02251,,,,current_only,
+ITHS00043,ITHS00055,,,,current_only,
+ITHS00045,ITHS00794,ferrovia_civitanova_marche_fabriano,18840101,,dated_line,ferrovia Civitanova Marche-Fabriano
+ITHS00045,ITHS01052,ferrovia_civitanova_marche_fabriano,18660101,,dated_line,ferrovia Civitanova Marche-Fabriano
+ITHS00048,ITHS03012,,,,current_only,
+ITHS00049,ITHS00766,,,,current_only,
+ITHS00056,ITHS01292,,,,current_only,
+ITHS00056,ITHS02856,,,,current_only,
+ITHS00062,ITHS00761,ferrovia_gallarate_varese,18650101,,dated_line,ferrovia Gallarate-Varese
+ITHS00063,ITHS00367,,,,current_only,
+ITHS00063,ITHS01754,ferrovia_novara_alessandria,18540101,,dated_line,ferrovia Novara-Alessandria
+ITHS00066,ITHS00477,,,,current_only,
+ITHS00066,ITHS00703,,,,current_only,
+ITHS00067,ITHS00476,,,,current_only,
+ITHS00067,ITHS02858,,,,current_only,
+ITHS00068,ITHS00573,,,,current_only,
+ITHS00068,ITHS01167,,,,current_only,
+ITHS00068,ITHS02765,,,,current_only,
+ITHS00068,ITHS02809,,,,current_only,
+ITHS00068,ITHS03064,,,,current_only,
+ITHS00071,ITHS01255,ferrovia_ferrara_rimini,18830101,,dated_line,ferrovia Ferrara-Rimini
+ITHS00071,ITHS03212,ferrovia_ferrara_rimini,18830101,,dated_line,ferrovia Ferrara-Rimini
+ITHS00081,ITHS02656,,,,current_only,
+ITHS00083,ITHS00693,,,,current_only,
+ITHS00084,ITHS01696,,,,current_only,
+ITHS00084,ITHS02170,,,,current_only,
+ITHS00091,ITHS02144,ferrovia_lecco_brescia,18630101,,dated_line,ferrovia Lecco-Brescia
+ITHS00097,ITHS03079,,,,current_only,
+ITHS00103,ITHS01932,,,,current_only,
+ITHS00103,ITHS02658,,,,current_only,
+ITHS00104,ITHS00804,,,,current_only,
+ITHS00104,ITHS00974,,,,current_only,
+ITHS00112,ITHS00445,,,,current_only,
+ITHS00112,ITHS02232,,,,current_only,
+ITHS00114,ITHS01799,,,,current_only,
+ITHS00121,ITHS02110,,,,current_only,
+ITHS00121,ITHS02503,,,,current_only,
+ITHS00127,ITHS00909,,,,current_only,
+ITHS00127,ITHS00910,,,,current_only,
+ITHS00130,ITHS02742,,,,current_only,
+ITHS00136,ITHS00332,ferrovia_varese_porto_ceresio,18940101,20090101,dated_line,ferrovia Varese-Porto Ceresio
+ITHS00136,ITHS01325,ferrovia_varese_porto_ceresio,18940101,20090101,dated_line,ferrovia Varese-Porto Ceresio
+ITHS00140,ITHS00610,ferrovia_lecco_milano,18400101,,dated_line,ferrovia Lecco-Milano
+ITHS00140,ITHS01740,ferrovia_lecco_milano,18400101,,dated_line,ferrovia Lecco-Milano
+ITHS00141,ITHS00834,,,,current_only,
+ITHS00141,ITHS02103,,,,current_only,
+ITHS00144,ITHS00395,,,,current_only,
+ITHS00145,ITHS02830,,,,current_only,
+ITHS00147,ITHS01324,,,,current_only,
+ITHS00148,ITHS02196,ferrovia_ferrara_rimini,18830101,,dated_line,ferrovia Ferrara-Rimini
+ITHS00150,ITHS02044,ferrovia_napoli_foggia,18670101,,dated_line,ferrovia Napoli-Foggia
+ITHS00154,ITHS00907,ferrovia_santhi_arona,19050101,20120101,dated_line,ferrovia Santhià-Arona
+ITHS00155,ITHS01327,,,,current_only,
+ITHS00159,ITHS02119,,,,current_only,
+ITHS00159,ITHS02407,,,,current_only,
+ITHS00162,ITHS02382,,,,current_only,
+ITHS00162,ITHS02707,,,,current_only,
+ITHS00164,ITHS01875,,,,current_only,
+ITHS00164,ITHS02406,,,,current_only,
+ITHS00169,ITHS02093,,,,current_only,
+ITHS00169,ITHS03063,,,,current_only,
+ITHS00170,ITHS02270,,,,current_only,
+ITHS00173,ITHS01874,,,,current_only,
+ITHS00173,ITHS02358,,,,current_only,
+ITHS00176,ITHS00561,,,,current_only,
+ITHS00178,ITHS00262,,,,current_only,
+ITHS00181,ITHS02125,,,,current_only,
+ITHS00187,ITHS00431,,,,current_only,
+ITHS00187,ITHS01398,,,,current_only,
+ITHS00187,ITHS02236,,,,current_only,
+ITHS00189,ITHS02627,ferrovia_pontremolese,18920101,,dated_line,ferrovia Pontremolese
+ITHS00189,ITHS03174,ferrovia_pontremolese,18920101,,dated_line,ferrovia Pontremolese
+ITHS00194,ITHS02538,,,,current_only,
+ITHS00196,ITHS02422,,,,current_only,
+ITHS00198,ITHS00582,ferrovia_avezzano_roccasecca,18840101,,dated_line,ferrovia Avezzano-Roccasecca
+ITHS00198,ITHS00589,ferrovia_roma_sulmona_pescara,18880101,,dated_line,ferrovia Roma-Sulmona-Pescara
+ITHS00198,ITHS00772,,,,current_only,
+ITHS00198,ITHS01984,ferrovia_roma_sulmona_pescara,18880101,,dated_line,ferrovia Roma-Sulmona-Pescara
+ITHS00200,ITHS00459,,,,current_only,
+ITHS00200,ITHS02417,,,,current_only,
+ITHS00203,ITHS00665,,,,current_only,
+ITHS00203,ITHS01826,,,,current_only,
+ITHS00209,ITHS02438,,,,current_only,
+ITHS00209,ITHS02611,,,,current_only,
+ITHS00212,ITHS01447,,,,current_only,
+ITHS00212,ITHS02412,ferrovia_castelbolognese_ravenna,18630101,,dated_line,ferrovia Castelbolognese-Ravenna
+ITHS00213,ITHS01959,,,,current_only,
+ITHS00218,ITHS01502,ferrovia_brescia_cremona,18660101,,dated_line,ferrovia Brescia-Cremona
+ITHS00218,ITHS02592,ferrovia_brescia_cremona,18660101,,dated_line,ferrovia Brescia-Cremona
+ITHS00222,ITHS01371,,,,current_only,
+ITHS00222,ITHS01556,ferrovia_torino_ceres,18680101,,dated_line,ferrovia Torino-Ceres
+ITHS00224,ITHS00703,,,,current_only,
+ITHS00224,ITHS02976,,,,current_only,
+ITHS00232,ITHS03194,,,,current_only,
+ITHS00242,ITHS00415,prealpino_sant_eufemia,20130101,,dated_line,Prealpino-Sant'Eufemia
+ITHS00251,ITHS02973,,,,current_only,
+ITHS00253,ITHS01108,,,,current_only,
+ITHS00260,ITHS00669,ferrovia_trento_venezia,18960101,,dated_line,ferrovia Trento-Venezia
+ITHS00260,ITHS02385,ferrovia_bassano_padova,18770101,,dated_line,ferrovia Bassano-Padova
+ITHS00265,ITHS01673,,,,current_only,
+ITHS00267,ITHS01035,,,,current_only,
+ITHS00270,ITHS01988,,,,current_only,
+ITHS00270,ITHS02762,,,,current_only,
+ITHS00278,ITHS00947,,,,current_only,
+ITHS00281,ITHS01001,,,,current_only,
+ITHS00284,ITHS01552,,,,current_only,
+ITHS00285,ITHS01856,,,,current_only,
+ITHS00287,ITHS02006,,,,current_only,
+ITHS00288,ITHS02683,,,,current_only,
+ITHS00291,ITHS01005,,,,current_only,
+ITHS00296,ITHS01893,,,,current_only,
+ITHS00298,ITHS02144,ferrovia_lecco_brescia,18630101,,dated_line,ferrovia Lecco-Brescia
+ITHS00298,ITHS02697,ferrovia_lecco_brescia,18630101,,dated_line,ferrovia Lecco-Brescia
+ITHS00300,ITHS01593,,,,current_only,
+ITHS00300,ITHS02095,,,,current_only,
+ITHS00310,ITHS01020,ferrovia_domodossola_milano,18600101,,dated_line,ferrovia Domodossola-Milano
+ITHS00311,ITHS01674,,,,current_only,
+ITHS00315,ITHS01425,,,,current_only,
+ITHS00321,ITHS01982,,,,current_only,
+ITHS00329,ITHS01644,,,,current_only,
+ITHS00329,ITHS02973,,,,current_only,
+ITHS00331,ITHS02161,,,,current_only,
+ITHS00332,ITHS02183,ferrovia_varese_porto_ceresio,18940101,20090101,dated_line,ferrovia Varese-Porto Ceresio
+ITHS00350,ITHS01146,,,,current_only,
+ITHS00350,ITHS01410,,,,current_only,
+ITHS00356,ITHS00520,,,,current_only,
+ITHS00356,ITHS01238,,,,current_only,
+ITHS00364,ITHS01099,,,,current_only,
+ITHS00364,ITHS02058,,,,current_only,
+ITHS00365,ITHS01699,,,,current_only,
+ITHS00365,ITHS02026,,,,current_only,
+ITHS00367,ITHS03126,,,,current_only,
+ITHS00370,ITHS01964,,,,current_only,
+ITHS00371,ITHS00636,,,,current_only,
+ITHS00371,ITHS01236,,,,current_only,
+ITHS00372,ITHS02165,ferrovia_pontremolese,18920101,,dated_line,ferrovia Pontremolese
+ITHS00373,ITHS02378,,,,current_only,
+ITHS00377,ITHS00907,,,,current_only,
+ITHS00377,ITHS00968,,,,current_only,
+ITHS00377,ITHS00988,,,,current_only,
+ITHS00377,ITHS01268,,,,current_only,
+ITHS00379,ITHS02612,,,,current_only,
+ITHS00389,ITHS01310,,,,current_only,
+ITHS00390,ITHS01076,,,,current_only,
+ITHS00392,ITHS00975,,,,current_only,
+ITHS00392,ITHS02344,,,,current_only,
+ITHS00399,ITHS03081,,,,current_only,
+ITHS00400,ITHS00785,,,,current_only,
+ITHS00400,ITHS01336,,,,current_only,
+ITHS00402,ITHS01516,,,,current_only,
+ITHS00402,ITHS02039,,,,current_only,
+ITHS00403,ITHS00816,,,,current_only,
+ITHS00406,ITHS00587,,,,current_only,
+ITHS00406,ITHS01954,,,,current_only,
+ITHS00407,ITHS00844,,,,current_only,
+ITHS00415,ITHS02079,,,,current_only,
+ITHS00415,ITHS02592,ferrovia_brescia_cremona,18660101,,dated_line,ferrovia Brescia-Cremona
+ITHS00417,ITHS00755,,,,current_only,
+ITHS00419,ITHS03134,,,,current_only,
+ITHS00420,ITHS02076,,,,current_only,
+ITHS00422,ITHS03025,,,,current_only,
+ITHS00425,ITHS01117,,,,current_only,
+ITHS00427,ITHS00585,,,,current_only,
+ITHS00427,ITHS01246,,,,current_only,
+ITHS00428,ITHS02467,ferrovia_alessandria_piacenza,18580101,,dated_line,ferrovia Alessandria-Piacenza
+ITHS00428,ITHS02830,ferrovia_alessandria_piacenza,18580101,,dated_line,ferrovia Alessandria-Piacenza
+ITHS00441,ITHS01377,,,,current_only,
+ITHS00445,ITHS02842,,,,current_only,
+ITHS00450,ITHS01776,,,,current_only,
+ITHS00451,ITHS00537,,,,current_only,
+ITHS00451,ITHS01111,,,,current_only,
+ITHS00453,ITHS00607,,,,current_only,
+ITHS00456,ITHS01079,,,,current_only,
+ITHS00456,ITHS02616,,,,current_only,
+ITHS00458,ITHS02918,,,,current_only,
+ITHS00459,ITHS02848,,,,current_only,
+ITHS00460,ITHS01185,ferrovia_domodossola_milano,18600101,,dated_line,ferrovia Domodossola-Milano
+ITHS00460,ITHS01394,ferrovia_domodossola_milano,18600101,,dated_line,ferrovia Domodossola-Milano
+ITHS00461,ITHS01057,,,,current_only,
+ITHS00461,ITHS01212,,,,current_only,
+ITHS00465,ITHS01522,,,,current_only,
+ITHS00465,ITHS01565,,,,current_only,
+ITHS00466,ITHS01102,,,,current_only,
+ITHS00466,ITHS02159,,,,current_only,
+ITHS00472,ITHS02565,ferrovia_alessandria_san_giuseppe_di_cairo,18580101,,dated_line,ferrovia Alessandria-San Giuseppe di Cairo
+ITHS00480,ITHS00490,,,,current_only,
+ITHS00488,ITHS02435,,,,current_only,
+ITHS00490,ITHS01412,,,,current_only,
+ITHS00491,ITHS02218,ferrovia_viareggio_firenze,18480101,,dated_line,ferrovia Viareggio-Firenze
+ITHS00492,ITHS00929,,,,current_only,
+ITHS00499,ITHS01627,,,,current_only,
+ITHS00500,ITHS01272,,,,current_only,
+ITHS00502,ITHS00503,,,,current_only,
+ITHS00502,ITHS02436,,,,current_only,
+ITHS00503,ITHS01317,,,,current_only,
+ITHS00503,ITHS01619,,,,current_only,
+ITHS00504,ITHS03149,,,,current_only,
+ITHS00505,ITHS02890,ferrovia_seregno_bergamo,18880101,,dated_line,ferrovia Seregno-Bergamo
+ITHS00506,ITHS02360,,,,current_only,
+ITHS00506,ITHS02831,,,,current_only,
+ITHS00507,ITHS03196,,,,current_only,
+ITHS00520,ITHS01466,,,,current_only,
+ITHS00521,ITHS02996,,,,current_only,
+ITHS00524,ITHS02588,,,,current_only,
+ITHS00524,ITHS03150,,,,current_only,
+ITHS00531,ITHS00563,,,,current_only,
+ITHS00531,ITHS01071,,,,current_only,
+ITHS00535,ITHS03156,,,,current_only,
+ITHS00537,ITHS01111,,,,current_only,
+ITHS00537,ITHS01376,,,,current_only,
+ITHS00538,ITHS00909,,,,current_only,
+ITHS00542,ITHS02316,,,,current_only,
+ITHS00544,ITHS00831,,,,current_only,
+ITHS00544,ITHS02887,,,,current_only,
+ITHS00545,ITHS02103,,,,current_only,
+ITHS00545,ITHS02659,,,,current_only,
+ITHS00547,ITHS00697,ferrovia_montebelluna_camposampiero,18860101,,dated_line,ferrovia Montebelluna-Camposampiero
+ITHS00548,ITHS00970,,,,current_only,
+ITHS00548,ITHS02551,,,,current_only,
+ITHS00550,ITHS01469,,,,current_only,
+ITHS00550,ITHS01783,,,,current_only,
+ITHS00550,ITHS01821,,,,current_only,
+ITHS00553,ITHS00791,,,,current_only,
+ITHS00554,ITHS00960,,,,current_only,
+ITHS00556,ITHS01824,,,,current_only,
+ITHS00558,ITHS01394,ferrovia_domodossola_milano,18600101,,dated_line,ferrovia Domodossola-Milano
+ITHS00558,ITHS01969,ferrovia_domodossola_milano,18600101,,dated_line,ferrovia Domodossola-Milano
+ITHS00561,ITHS02039,,,,current_only,
+ITHS00563,ITHS00731,,,,current_only,
+ITHS00563,ITHS02703,,,,current_only,
+ITHS00565,ITHS02642,,,,current_only,
+ITHS00565,ITHS02913,,,,current_only,
+ITHS00580,ITHS00821,,,,current_only,
+ITHS00580,ITHS01681,,,,current_only,
+ITHS00581,ITHS00845,,,,current_only,
+ITHS00581,ITHS02368,,,,current_only,
+ITHS00584,ITHS00810,,,,current_only,
+ITHS00585,ITHS03217,,,,current_only,
+ITHS00589,ITHS02680,,,,current_only,
+ITHS00593,ITHS01877,,,,current_only,
+ITHS00593,ITHS03127,,,,current_only,
+ITHS00594,ITHS02717,,,,current_only,
+ITHS00594,ITHS03095,,,,current_only,
+ITHS00597,ITHS02618,,,,current_only,
+ITHS00600,ITHS02997,ferrovia_treviglio_cremona,18630101,,dated_line,ferrovia Treviglio-Cremona
+ITHS00603,ITHS00978,,,,current_only,
+ITHS00607,ITHS02625,,,,current_only,
+ITHS00608,ITHS02259,,,,current_only,
+ITHS00608,ITHS02779,,,,current_only,
+ITHS00608,ITHS03189,,,,current_only,
+ITHS00611,ITHS02151,,,,current_only,
+ITHS00611,ITHS02864,,,,current_only,
+ITHS00611,ITHS03106,,,,current_only,
+ITHS00614,ITHS01907,,,,current_only,
+ITHS00618,ITHS02363,,,,current_only,
+ITHS00622,ITHS00882,,,,current_only,
+ITHS00622,ITHS02027,,,,current_only,
+ITHS00625,ITHS01237,,,,current_only,
+ITHS00626,ITHS01875,,,,current_only,
+ITHS00631,ITHS01140,,,,current_only,
+ITHS00631,ITHS02186,,,,current_only,
+ITHS00633,ITHS01864,ferrovia_treviglio_cremona,18630101,,dated_line,ferrovia Treviglio-Cremona
+ITHS00633,ITHS02787,ferrovia_treviglio_cremona,18630101,,dated_line,ferrovia Treviglio-Cremona
+ITHS00636,ITHS00637,ferrovia_chivasso_alessandria,18570101,,dated_line,ferrovia Chivasso-Alessandria
+ITHS00636,ITHS02895,,,,current_only,
+ITHS00640,ITHS00962,ferrovia_treviglio_cremona,18630101,,dated_line,ferrovia Treviglio-Cremona
+ITHS00642,ITHS02561,,,,current_only,
+ITHS00643,ITHS01783,,,,current_only,
+ITHS00644,ITHS00886,ferrovia_milano_bologna,18610101,,dated_line,ferrovia Milano-Bologna
+ITHS00644,ITHS01901,,,,current_only,
+ITHS00644,ITHS02682,ferrovia_milano_bologna,18610101,,dated_line,ferrovia Milano-Bologna
+ITHS00649,ITHS00888,ferrovia_venezia_udine,18510101,,dated_line,ferrovia Venezia-Udine
+ITHS00652,ITHS02156,,,,current_only,
+ITHS00656,ITHS01469,,,,current_only,
+ITHS00656,ITHS01470,,,,current_only,
+ITHS00656,ITHS02618,,,,current_only,
+ITHS00663,ITHS02735,,,,current_only,
+ITHS00664,ITHS02995,,,,current_only,
+ITHS00664,ITHS02997,ferrovia_milano_venezia,18420101,,dated_line,ferrovia Milano-Venezia
+ITHS00670,ITHS03159,,,,current_only,
+ITHS00674,ITHS00769,,,,current_only,
+ITHS00675,ITHS02467,,,,current_only,
+ITHS00675,ITHS03208,,,,current_only,
+ITHS00678,ITHS01053,ferrovia_bologna_ancona,18610101,,dated_line,ferrovia Bologna-Ancona
+ITHS00678,ITHS01318,,,,current_only,
+ITHS00678,ITHS02761,ferrovia_castelbolognese_ravenna,18630101,,dated_line,ferrovia Castelbolognese-Ravenna
+ITHS00685,ITHS02916,,,,current_only,
+ITHS00685,ITHS03140,,,,current_only,
+ITHS00687,ITHS01318,,,,current_only,
+ITHS00687,ITHS03085,,,,current_only,
+ITHS00697,ITHS01065,ferrovia_montebelluna_camposampiero,18860101,,dated_line,ferrovia Montebelluna-Camposampiero
+ITHS00697,ITHS02481,ferrovia_vicenza_treviso,18770101,,dated_line,ferrovia Vicenza-Treviso
+ITHS00701,ITHS02321,,,,current_only,
+ITHS00701,ITHS02881,,,,current_only,
+ITHS00705,ITHS01243,,,,current_only,
+ITHS00705,ITHS01936,,,,current_only,
+ITHS00709,ITHS02787,ferrovia_treviglio_cremona,18630101,,dated_line,ferrovia Treviglio-Cremona
+ITHS00710,ITHS00812,,,,current_only,
+ITHS00712,ITHS01508,,,,current_only,
+ITHS00717,ITHS02701,,,,current_only,
+ITHS00720,ITHS02526,,,,current_only,
+ITHS00726,ITHS00951,,,,current_only,
+ITHS00726,ITHS01968,,,,current_only,
+ITHS00727,ITHS00843,,,,current_only,
+ITHS00727,ITHS02891,ferrovia_firenze_roma,18660101,,dated_line,ferrovia Firenze-Roma
+ITHS00731,ITHS02256,,,,current_only,
+ITHS00740,ITHS00741,,,,current_only,
+ITHS00744,ITHS02748,,,,current_only,
+ITHS00744,ITHS02816,,,,current_only,
+ITHS00751,ITHS02015,,,,current_only,
+ITHS00752,ITHS02298,,,,current_only,
+ITHS00752,ITHS02356,,,,current_only,
+ITHS00753,ITHS00755,,,,current_only,
+ITHS00753,ITHS01989,ferrovia_vercelli_pavia,18820101,,dated_line,ferrovia Vercelli-Pavia
+ITHS00754,ITHS01815,,,,current_only,
+ITHS00755,ITHS01989,ferrovia_milano_genova,18530101,,dated_line,ferrovia Milano-Genova
+ITHS00756,ITHS00964,,,,current_only,
+ITHS00759,ITHS02259,ferrovia_torino_fossano_savona,18480101,,dated_line,Ferrovia Torino-Fossano-Savona
+ITHS00759,ITHS02651,ferrovia_torino_fossano_savona,18480101,,dated_line,Ferrovia Torino-Fossano-Savona
+ITHS00761,ITHS01185,ferrovia_gallarate_varese,18650101,,dated_line,ferrovia Gallarate-Varese
+ITHS00763,ITHS01032,,,,current_only,
+ITHS00763,ITHS03138,ferrovia_vicenza_schio,18760101,,dated_line,ferrovia Vicenza-Schio
+ITHS00765,ITHS01165,,,,current_only,
+ITHS00765,ITHS02105,,,,current_only,
+ITHS00767,ITHS03039,ferrovia_tirrenica,18590101,,dated_line,ferrovia Tirrenica
+ITHS00769,ITHS01376,,,,current_only,
+ITHS00770,ITHS02548,,,,current_only,
+ITHS00770,ITHS02582,,,,current_only,
+ITHS00775,ITHS02530,,,,current_only,
+ITHS00777,ITHS01142,,,,current_only,
+ITHS00783,ITHS00896,,,,current_only,
+ITHS00784,ITHS01111,,,,current_only,
+ITHS00785,ITHS01393,,,,current_only,
+ITHS00785,ITHS02599,,,,current_only,
+ITHS00786,ITHS01360,,,,current_only,
+ITHS00786,ITHS02407,ferrovia_rovigo_chioggia,18760101,,dated_line,ferrovia Rovigo-Chioggia
+ITHS00791,ITHS01887,,,,current_only,
+ITHS00793,ITHS01859,ferrovia_lecco_milano,18400101,,dated_line,ferrovia Lecco-Milano
+ITHS00794,ITHS01554,,,,current_only,
+ITHS00799,ITHS00807,,,,current_only,
+ITHS00806,ITHS01196,,,,current_only,
+ITHS00812,ITHS01839,,,,current_only,
+ITHS00812,ITHS02525,,,,current_only,
+ITHS00816,ITHS01790,,,,current_only,
+ITHS00819,ITHS01343,,,,current_only,
+ITHS00821,ITHS01681,,,,current_only,
+ITHS00824,ITHS01380,,,,current_only,
+ITHS00827,ITHS03013,ferrovia_trofarello_chieri,18740101,,dated_line,ferrovia Trofarello-Chieri
+ITHS00829,ITHS01506,,,,current_only,
+ITHS00831,ITHS02110,,,,current_only,
+ITHS00833,ITHS01624,,,,current_only,
+ITHS00836,ITHS02523,,,,current_only,
+ITHS00844,ITHS01682,,,,current_only,
+ITHS00845,ITHS01153,,,,current_only,
+ITHS00852,ITHS01977,,,,current_only,
+ITHS00856,ITHS00978,,,,current_only,
+ITHS00856,ITHS02954,,,,current_only,
+ITHS00861,ITHS01069,,,,current_only,
+ITHS00861,ITHS01907,,,,current_only,
+ITHS00865,ITHS01125,ferrovia_vicenza_treviso,18770101,,dated_line,ferrovia Vicenza-Treviso
+ITHS00865,ITHS02395,ferrovia_bassano_padova,18770101,,dated_line,ferrovia Bassano-Padova
+ITHS00866,ITHS02305,,,,current_only,
+ITHS00875,ITHS01703,ferrovia_civitanova_marche_fabriano,18840101,,dated_line,ferrovia Civitanova Marche-Fabriano
+ITHS00878,ITHS02274,ferrovia_ferrara_rimini,18830101,,dated_line,ferrovia Ferrara-Rimini
+ITHS00880,ITHS02400,ferrovia_lecco_brescia,18630101,,dated_line,ferrovia Lecco-Brescia
+ITHS00882,ITHS01264,,,,current_only,
+ITHS00891,ITHS03080,,,,current_only,
+ITHS00895,ITHS00998,ferrovia_tirano_lecco,19020101,,dated_line,ferrovia Tirano-Lecco
+ITHS00895,ITHS01030,ferrovia_colico_chiavenna,18860101,,dated_line,ferrovia Colico-Chiavenna
+ITHS00895,ITHS02081,ferrovia_tirano_lecco,19020101,,dated_line,ferrovia Tirano-Lecco
+ITHS00896,ITHS02027,,,,current_only,
+ITHS00898,ITHS02089,ferrovia_pisa_vada,18630101,,dated_line,ferrovia Pisa-Vada
+ITHS00898,ITHS03137,ferrovia_pisa_vada,18630101,,dated_line,ferrovia Pisa-Vada
+ITHS00899,ITHS03139,ferrovia_pontremolese,18920101,,dated_line,ferrovia Pontremolese
+ITHS00908,ITHS01023,,,,current_only,
+ITHS00908,ITHS03202,,,,current_only,
+ITHS00910,ITHS01297,,,,current_only,
+ITHS00912,ITHS00914,,,,current_only,
+ITHS00922,ITHS01383,ferrovia_lavezzola_lugo,18880101,,dated_line,Ferrovia Lavezzola-Lugo
+ITHS00922,ITHS01447,ferrovia_lavezzola_lugo,18880101,,dated_line,Ferrovia Lavezzola-Lugo
+ITHS00923,ITHS01010,,,,current_only,
+ITHS00927,ITHS02737,,,,current_only,
+ITHS00932,ITHS02098,,,,current_only,
+ITHS00934,ITHS01886,,,,current_only,
+ITHS00936,ITHS02394,,,,current_only,
+ITHS00936,ITHS02735,ferrovia_jonica,18660101,,dated_line,ferrovia Jonica
+ITHS00939,ITHS01604,,,,current_only,
+ITHS00944,ITHS01693,,,,current_only,
+ITHS00947,ITHS02442,,,,current_only,
+ITHS00953,ITHS01744,,,,current_only,
+ITHS00956,ITHS01650,ferrovia_monza_molteno,19110101,,dated_line,ferrovia Monza-Molteno
+ITHS00960,ITHS01754,,,,current_only,
+ITHS00964,ITHS01864,ferrovia_brescia_cremona,18630101,,dated_line,ferrovia Brescia-Cremona
+ITHS00964,ITHS03192,,,,current_only,
+ITHS00966,ITHS01124,,,,current_only,
+ITHS00968,ITHS02844,,,,current_only,
+ITHS00970,ITHS02562,,,,current_only,
+ITHS00975,ITHS02691,,,,current_only,
+ITHS00977,ITHS00990,,,,current_only,
+ITHS00977,ITHS02837,,,,current_only,
+ITHS00987,ITHS01295,,,,current_only,
+ITHS00987,ITHS01994,,,,current_only,
+ITHS00988,ITHS02373,,,,current_only,
+ITHS00990,ITHS02344,,,,current_only,
+ITHS00993,ITHS03188,ferrovia_cagliari_golfo_aranci,18710101,,dated_line,ferrovia Cagliari-Golfo Aranci
+ITHS00995,ITHS02042,,,,current_only,
+ITHS00997,ITHS01146,,,,current_only,
+ITHS01003,ITHS01437,ferrovia_milano_venezia,18420101,,dated_line,ferrovia Milano-Venezia
+ITHS01003,ITHS02022,ferrovia_milano_venezia,18420101,,dated_line,ferrovia Milano-Venezia
+ITHS01004,ITHS02696,ferrovia_chiasso_milano,18400101,,dated_line,ferrovia Chiasso-Milano
+ITHS01006,ITHS01288,,,,current_only,
+ITHS01014,ITHS01401,,,,current_only,
+ITHS01018,ITHS03158,,,,current_only,
+ITHS01019,ITHS03120,ferrovia_del_brennero,18590101,,dated_line,ferrovia del Brennero
+ITHS01020,ITHS01037,,,,current_only,
+ITHS01020,ITHS03171,,,,current_only,
+ITHS01023,ITHS02262,,,,current_only,
+ITHS01028,ITHS03120,ferrovia_verona_modena,18510101,19870101,dated_line,ferrovia Verona-Modena
+ITHS01028,ITHS03176,,,,current_only,
+ITHS01040,ITHS02689,,,,current_only,
+ITHS01043,ITHS02134,,,,current_only,
+ITHS01045,ITHS01401,,,,current_only,
+ITHS01045,ITHS03187,,,,current_only,
+ITHS01047,ITHS01586,,,,current_only,
+ITHS01048,ITHS01673,,,,current_only,
+ITHS01048,ITHS01900,,,,current_only,
+ITHS01053,ITHS01274,ferrovia_faenza_lavezzola,18880101,,dated_line,ferrovia Faenza-Lavezzola
+ITHS01056,ITHS01128,,,,current_only,
+ITHS01056,ITHS02547,,,,current_only,
+ITHS01057,ITHS01413,,,,current_only,
+ITHS01058,ITHS01689,,,,current_only,
+ITHS01058,ITHS01962,,,,current_only,
+ITHS01063,ITHS01535,,,,current_only,
+ITHS01063,ITHS02015,,,,current_only,
+ITHS01065,ITHS01693,,,,current_only,
+ITHS01069,ITHS01671,,,,current_only,
+ITHS01071,ITHS02491,,,,current_only,
+ITHS01077,ITHS02765,,,,current_only,
+ITHS01079,ITHS02251,,,,current_only,
+ITHS01094,ITHS03174,ferrovia_pontremolese,18920101,,dated_line,ferrovia Pontremolese
+ITHS01095,ITHS01617,,,,current_only,
+ITHS01095,ITHS02679,,,,current_only,
+ITHS01099,ITHS02814,,,,current_only,
+ITHS01104,ITHS01107,,,,current_only,
+ITHS01106,ITHS01107,ferrovia_bologna_firenze,19340101,,dated_line,ferrovia Bologna-Firenze
+ITHS01108,ITHS01582,,,,current_only,
+ITHS01111,ITHS02886,,,,current_only,
+ITHS01115,ITHS01323,,,,current_only,
+ITHS01118,ITHS02799,ferrovia_terontola_foligno,18660101,,dated_line,ferrovia Terontola-Foligno
+ITHS01118,ITHS02996,ferrovia_roma_ancona,18660101,,dated_line,ferrovia Roma-Ancona
+ITHS01119,ITHS02669,ferrovia_tirrenica,18590101,,dated_line,ferrovia Tirrenica
+ITHS01119,ITHS03150,ferrovia_tirrenica,18590101,,dated_line,ferrovia Tirrenica
+ITHS01129,ITHS02314,,,,current_only,
+ITHS01133,ITHS01622,,,,current_only,
+ITHS01138,ITHS01567,ferrovia_fidenza_fornovo,19070101,,dated_line,ferrovia Fidenza-Fornovo
+ITHS01138,ITHS02769,ferrovia_pontremolese,18920101,,dated_line,ferrovia Pontremolese
+ITHS01140,ITHS02591,,,,current_only,
+ITHS01142,ITHS02651,ferrovia_torino_fossano_savona,18480101,,dated_line,Ferrovia Torino-Fossano-Savona
+ITHS01143,ITHS01304,,,,current_only,
+ITHS01155,ITHS03057,,,,current_only,
+ITHS01156,ITHS01396,ferrovia_verona_rovigo,18760101,19870101,dated_line,ferrovia Verona-Rovigo
+ITHS01160,ITHS01998,,,,current_only,
+ITHS01168,ITHS01785,linea_6,20070101,,dated_line,linea 6
+ITHS01171,ITHS01968,,,,current_only,
+ITHS01177,ITHS01304,,,,current_only,
+ITHS01180,ITHS01616,,,,current_only,
+ITHS01184,ITHS02002,,,,current_only,
+ITHS01185,ITHS03083,,,,current_only,
+ITHS01188,ITHS01829,,,,current_only,
+ITHS01190,ITHS02112,,,,current_only,
+ITHS01190,ITHS02574,,,,current_only,
+ITHS01200,ITHS02234,,,,current_only,
+ITHS01200,ITHS02975,,,,current_only,
+ITHS01202,ITHS02373,,,,current_only,
+ITHS01205,ITHS01253,,,,current_only,
+ITHS01205,ITHS02669,,,,current_only,
+ITHS01210,ITHS02950,,,,current_only,
+ITHS01210,ITHS03192,,,,current_only,
+ITHS01213,ITHS03106,ferrovia_pontebbana,18750101,,dated_line,ferrovia Pontebbana
+ITHS01217,ITHS01219,metropolitana_di_genova,19900101,,dated_line,metropolitana di Genova
+ITHS01218,ITHS01222,,,,current_only,
+ITHS01220,ITHS01222,,,,current_only,
+ITHS01224,ITHS01761,,,,current_only,
+ITHS01224,ITHS02733,,,,current_only,
+ITHS01229,ITHS01735,,,,current_only,
+ITHS01230,ITHS02373,,,,current_only,
+ITHS01230,ITHS02757,,,,current_only,
+ITHS01236,ITHS03052,,,,current_only,
+ITHS01238,ITHS02940,,,,current_only,
+ITHS01241,ITHS01593,,,,current_only,
+ITHS01245,ITHS02356,,,,current_only,
+ITHS01245,ITHS02739,,,,current_only,
+ITHS01248,ITHS01644,,,,current_only,
+ITHS01251,ITHS01756,,,,current_only,
+ITHS01251,ITHS02968,,,,current_only,
+ITHS01253,ITHS01716,,,,current_only,
+ITHS01255,ITHS01595,ferrovia_ferrara_rimini,18830101,,dated_line,ferrovia Ferrara-Rimini
+ITHS01264,ITHS02232,,,,current_only,
+ITHS01265,ITHS02517,,,,current_only,
+ITHS01272,ITHS03206,,,,current_only,
+ITHS01273,ITHS02134,,,,current_only,
+ITHS01274,ITHS02412,ferrovia_faenza_ravenna,19210101,,dated_line,ferrovia Faenza-Ravenna
+ITHS01278,ITHS02521,,,,current_only,
+ITHS01288,ITHS03108,,,,current_only,
+ITHS01292,ITHS01716,,,,current_only,
+ITHS01294,ITHS01709,,,,current_only,
+ITHS01295,ITHS02431,,,,current_only,
+ITHS01297,ITHS02256,,,,current_only,
+ITHS01298,ITHS01705,ferrovia_viterbo_orte,18860101,,dated_line,ferrovia Viterbo-Orte
+ITHS01300,ITHS01944,ferrovia_lecco_brescia,18630101,,dated_line,ferrovia Lecco-Brescia
+ITHS01301,ITHS01596,ferrovia_trento_mal_mezzana,19090101,,dated_line,ferrovia Trento-Malé-Mezzana
+ITHS01306,ITHS01655,,,,current_only,
+ITHS01306,ITHS02438,,,,current_only,
+ITHS01315,ITHS03181,,,,current_only,
+ITHS01317,ITHS03187,,,,current_only,
+ITHS01323,ITHS01887,,,,current_only,
+ITHS01324,ITHS02162,,,,current_only,
+ITHS01325,ITHS03083,ferrovia_varese_porto_ceresio,18940101,20090101,dated_line,ferrovia Varese-Porto Ceresio
+ITHS01331,ITHS02607,,,,current_only,
+ITHS01335,ITHS02382,,,,current_only,
+ITHS01336,ITHS01819,,,,current_only,
+ITHS01340,ITHS01930,,,,current_only,
+ITHS01342,ITHS02831,,,,current_only,
+ITHS01344,ITHS01806,,,,current_only,
+ITHS01347,ITHS01933,ferrovia_terni_sulmona,18830101,,dated_line,ferrovia Terni-Sulmona
+ITHS01347,ITHS02640,ferrovia_terni_sulmona,18830101,,dated_line,ferrovia Terni-Sulmona
+ITHS01349,ITHS01351,,,,current_only,
+ITHS01353,ITHS02815,,,,current_only,
+ITHS01353,ITHS02999,ferrovia_venezia_udine,18510101,,dated_line,ferrovia Venezia-Udine
+ITHS01363,ITHS01518,,,,current_only,
+ITHS01374,ITHS03033,,,,current_only,
+ITHS01377,ITHS02162,,,,current_only,
+ITHS01378,ITHS01587,,,,current_only,
+ITHS01383,ITHS03212,ferrovia_ferrara_rimini,18830101,,dated_line,ferrovia Ferrara-Rimini
+ITHS01385,ITHS01596,,,,current_only,
+ITHS01385,ITHS02986,,,,current_only,
+ITHS01389,ITHS02987,,,,current_only,
+ITHS01390,ITHS03065,ferrovia_como_lecco,18880101,,dated_line,ferrovia Como-Lecco
+ITHS01393,ITHS03159,,,,current_only,
+ITHS01398,ITHS01399,ferrovia_messina_siracusa,18660101,,dated_line,ferrovia Messina-Siracusa
+ITHS01399,ITHS01982,ferrovia_messina_siracusa,18660101,,dated_line,ferrovia Messina-Siracusa
+ITHS01403,ITHS02348,,,,current_only,
+ITHS01404,ITHS03138,ferrovia_milano_venezia,18420101,,dated_line,ferrovia Milano-Venezia
+ITHS01409,ITHS02858,,,,current_only,
+ITHS01410,ITHS01720,,,,current_only,
+ITHS01412,ITHS02378,,,,current_only,
+ITHS01413,ITHS02491,,,,current_only,
+ITHS01420,ITHS02496,,,,current_only,
+ITHS01420,ITHS03138,ferrovia_vicenza_treviso,18770101,,dated_line,ferrovia Vicenza-Treviso
+ITHS01421,ITHS02195,ferrovia_venezia_trieste,18850101,,dated_line,ferrovia Venezia-Trieste
+ITHS01421,ITHS02582,,,,current_only,
+ITHS01428,ITHS02058,,,,current_only,
+ITHS01433,ITHS02682,,,,current_only,
+ITHS01433,ITHS02868,ferrovia_milano_bologna,18610101,,dated_line,ferrovia Milano-Bologna
+ITHS01442,ITHS01838,,,,current_only,
+ITHS01442,ITHS02317,,,,current_only,
+ITHS01442,ITHS02865,ferrovia_viareggio_firenze,18480101,,dated_line,ferrovia Viareggio-Firenze
+ITHS01447,ITHS01550,ferrovia_lavezzola_lugo,18880101,,dated_line,Ferrovia Lavezzola-Lugo
+ITHS01448,ITHS02193,,,,current_only,
+ITHS01452,ITHS02533,,,,current_only,
+ITHS01462,ITHS02139,,,,current_only,
+ITHS01465,ITHS02696,ferrovia_seregno_bergamo,18880101,,dated_line,ferrovia Seregno-Bergamo
+ITHS01470,ITHS03057,,,,current_only,
+ITHS01472,ITHS02935,,,,current_only,
+ITHS01474,ITHS02981,,,,current_only,
+ITHS01493,ITHS03083,,,,current_only,
+ITHS01502,ITHS03118,ferrovia_brescia_cremona,18660101,,dated_line,ferrovia Brescia-Cremona
+ITHS01508,ITHS02613,,,,current_only,
+ITHS01514,ITHS01923,,,,current_only,
+ITHS01514,ITHS02261,,,,current_only,
+ITHS01518,ITHS02729,,,,current_only,
+ITHS01523,ITHS01619,,,,current_only,
+ITHS01523,ITHS03178,,,,current_only,
+ITHS01530,ITHS02836,,,,current_only,
+ITHS01535,ITHS02692,,,,current_only,
+ITHS01548,ITHS02249,,,,current_only,
+ITHS01559,ITHS02405,,,,current_only,
+ITHS01559,ITHS02986,,,,current_only,
+ITHS01561,ITHS02488,,,,current_only,
+ITHS01583,ITHS02831,,,,current_only,
+ITHS01585,ITHS03107,ferrovia_domodossola_milano,18600101,,dated_line,ferrovia Domodossola-Milano
+ITHS01592,ITHS01926,ferrovia_milano_venezia,18420101,,dated_line,ferrovia Milano-Venezia
+ITHS01593,ITHS02668,,,,current_only,
+ITHS01595,ITHS02274,ferrovia_ferrara_rimini,18830101,,dated_line,ferrovia Ferrara-Rimini
+ITHS01601,ITHS02382,,,,current_only,
+ITHS01603,ITHS01607,ferrovia_chiasso_milano,18400101,,dated_line,ferrovia Chiasso-Milano
+ITHS01603,ITHS01608,ferrovia_milano_genova,18420101,,dated_line,ferrovia Milano-Genova
+ITHS01603,ITHS01610,ferrovia_domodossola_milano,18600101,,dated_line,ferrovia Domodossola-Milano
+ITHS01606,ITHS01607,,,,current_only,
+ITHS01607,ITHS01608,,,,current_only,
+ITHS01607,ITHS01610,ferrovia_chiasso_milano,18400101,,dated_line,ferrovia Chiasso-Milano
+ITHS01608,ITHS01613,ferrovia_milano_genova,18530101,,dated_line,ferrovia Milano-Genova
+ITHS01608,ITHS02079,ferrovia_milano_venezia,18420101,,dated_line,ferrovia Milano-Venezia
+ITHS01612,ITHS01613,passante_ferroviario_di_milano,19970101,,dated_line,passante ferroviario di Milano
+ITHS01613,ITHS02446,linea_m3,20110101,,dated_line,linea M3
+ITHS01613,ITHS02868,ferrovia_milano_bologna_av,20080101,,dated_line,ferrovia Milano-Bologna (AV)
+ITHS01615,ITHS02387,,,,current_only,
+ITHS01615,ITHS03135,,,,current_only,
+ITHS01616,ITHS02985,,,,current_only,
+ITHS01617,ITHS01620,,,,current_only,
+ITHS01620,ITHS03206,,,,current_only,
+ITHS01621,ITHS02807,,,,current_only,
+ITHS01622,ITHS02713,,,,current_only,
+ITHS01624,ITHS02442,,,,current_only,
+ITHS01625,ITHS02113,,,,current_only,
+ITHS01625,ITHS02551,,,,current_only,
+ITHS01633,ITHS02409,,,,current_only,
+ITHS01634,ITHS02675,,,,current_only,
+ITHS01642,ITHS02124,,,,current_only,
+ITHS01650,ITHS01852,ferrovia_como_lecco,18880101,,dated_line,ferrovia Como-Lecco
+ITHS01651,ITHS02804,,,,current_only,
+ITHS01655,ITHS02298,,,,current_only,
+ITHS01656,ITHS02936,ferrovia_torino_genova,18480101,,dated_line,ferrovia Torino-Genova
+ITHS01656,ITHS03013,ferrovia_torino_genova,18480101,,dated_line,ferrovia Torino-Genova
+ITHS01665,ITHS02359,ferrovia_udine_trieste,18600101,,dated_line,ferrovia Udine-Trieste
+ITHS01670,ITHS02477,,,,current_only,
+ITHS01670,ITHS02929,,,,current_only,
+ITHS01671,ITHS02124,,,,current_only,
+ITHS01673,ITHS02448,,,,current_only,
+ITHS01674,ITHS02528,,,,current_only,
+ITHS01682,ITHS02360,,,,current_only,
+ITHS01685,ITHS02961,,,,current_only,
+ITHS01686,ITHS01776,,,,current_only,
+ITHS01687,ITHS02343,,,,current_only,
+ITHS01687,ITHS02390,,,,current_only,
+ITHS01693,ITHS02998,ferrovia_montebelluna_treviso,18840101,,dated_line,ferrovia Montebelluna-Treviso
+ITHS01696,ITHS02026,,,,current_only,
+ITHS01705,ITHS03198,ferrovia_viterbo_orte,18860101,,dated_line,ferrovia Viterbo-Orte
+ITHS01709,ITHS01791,,,,current_only,
+ITHS01715,ITHS02887,,,,current_only,
+ITHS01717,ITHS02185,,,,current_only,
+ITHS01718,ITHS02964,,,,current_only,
+ITHS01720,ITHS03117,,,,current_only,
+ITHS01724,ITHS02196,ferrovia_ferrara_rimini,18830101,,dated_line,ferrovia Ferrara-Rimini
+ITHS01727,ITHS02017,,,,current_only,
+ITHS01727,ITHS02746,,,,current_only,
+ITHS01735,ITHS02592,ferrovia_brescia_parma,18840101,,dated_line,ferrovia Brescia-Parma
+ITHS01740,ITHS02720,ferrovia_chiasso_milano,18400101,,dated_line,ferrovia Chiasso-Milano
+ITHS01743,ITHS03011,,,,current_only,
+ITHS01745,ITHS02615,,,,current_only,
+ITHS01748,ITHS03153,ferrovia_airasca_saluzzo,18840101,19860101,dated_line,ferrovia Airasca-Saluzzo
+ITHS01749,ITHS02405,,,,current_only,
+ITHS01750,ITHS02734,,,,current_only,
+ITHS01754,ITHS01804,ferrovia_vercelli_pavia,18820101,,dated_line,ferrovia Vercelli-Pavia
+ITHS01754,ITHS01857,ferrovia_novara_alessandria,18540101,,dated_line,ferrovia Novara-Alessandria
+ITHS01754,ITHS03145,ferrovia_mortara_milano,18540101,,dated_line,ferrovia Mortara-Milano
+ITHS01756,ITHS01825,,,,current_only,
+ITHS01768,ITHS02403,,,,current_only,
+ITHS01768,ITHS03176,,,,current_only,
+ITHS01791,ITHS02860,,,,current_only,
+ITHS01792,ITHS02089,,,,current_only,
+ITHS01797,ITHS02185,,,,current_only,
+ITHS01797,ITHS02968,,,,current_only,
+ITHS01804,ITHS02336,,,,current_only,
+ITHS01806,ITHS02387,,,,current_only,
+ITHS01813,ITHS01815,,,,current_only,
+ITHS01813,ITHS01932,,,,current_only,
+ITHS01813,ITHS02527,,,,current_only,
+ITHS01819,ITHS02599,,,,current_only,
+ITHS01823,ITHS02813,,,,current_only,
+ITHS01825,ITHS02321,,,,current_only,
+ITHS01826,ITHS02393,,,,current_only,
+ITHS01829,ITHS02166,ferrovia_torino_milano,18550101,,dated_line,ferrovia Torino-Milano
+ITHS01829,ITHS02981,ferrovia_torino_milano,18550101,,dated_line,ferrovia Torino-Milano
+ITHS01829,ITHS03149,ferrovia_domodossola_novara,18640101,,dated_line,ferrovia Domodossola-Novara
+ITHS01831,ITHS02542,,,,current_only,
+ITHS01833,ITHS03203,,,,current_only,
+ITHS01836,ITHS02209,,,,current_only,
+ITHS01836,ITHS02707,,,,current_only,
+ITHS01840,ITHS02879,,,,current_only,
+ITHS01850,ITHS02138,,,,current_only,
+ITHS01856,ITHS02128,,,,current_only,
+ITHS01857,ITHS03058,,,,current_only,
+ITHS01864,ITHS02338,ferrovia_brescia_cremona,18660101,,dated_line,ferrovia Brescia-Cremona
+ITHS01871,ITHS01872,,,,current_only,
+ITHS01878,ITHS02421,,,,current_only,
+ITHS01884,ITHS02514,ferrovia_venezia_udine,18510101,,dated_line,ferrovia Venezia-Udine
+ITHS01890,ITHS02591,,,,current_only,
+ITHS01900,ITHS02528,,,,current_only,
+ITHS01906,ITHS02113,,,,current_only,
+ITHS01906,ITHS02294,,,,current_only,
+ITHS01912,ITHS02523,,,,current_only,
+ITHS01914,ITHS02396,,,,current_only,
+ITHS01922,ITHS02454,,,,current_only,
+ITHS01923,ITHS02974,,,,current_only,
+ITHS01926,ITHS02137,ferrovia_milano_venezia,18420101,,dated_line,ferrovia Milano-Venezia
+ITHS01926,ITHS03156,ferrovia_bassano_padova,18770101,,dated_line,ferrovia Bassano-Padova
+ITHS01933,ITHS02547,,,,current_only,
+ITHS01943,ITHS03081,,,,current_only,
+ITHS01961,ITHS02916,,,,current_only,
+ITHS01964,ITHS02384,,,,current_only,
+ITHS01969,ITHS03076,ferrovia_domodossola_milano,18600101,,dated_line,ferrovia Domodossola-Milano
+ITHS01974,ITHS03017,,,,current_only,
+ITHS01975,ITHS03139,ferrovia_pontremolese,18920101,,dated_line,ferrovia Pontremolese
+ITHS01977,ITHS02976,,,,current_only,
+ITHS01994,ITHS02191,,,,current_only,
+ITHS02005,ITHS02207,,,,current_only,
+ITHS02013,ITHS02014,ferrovia_terontola_foligno,18660101,,dated_line,ferrovia Terontola-Foligno
+ITHS02017,ITHS02019,,,,current_only,
+ITHS02038,ITHS02159,ferrovia_milano_bologna,18610101,,dated_line,ferrovia Milano-Bologna
+ITHS02038,ITHS02489,ferrovia_alessandria_piacenza,18580101,,dated_line,ferrovia Alessandria-Piacenza
+ITHS02039,ITHS02561,,,,current_only,
+ITHS02039,ITHS02950,,,,current_only,
+ITHS02044,ITHS02653,ferrovia_napoli_foggia,18670101,,dated_line,ferrovia Napoli-Foggia
+ITHS02051,ITHS02915,,,,current_only,
+ITHS02064,ITHS02249,,,,current_only,
+ITHS02070,ITHS02234,,,,current_only,
+ITHS02079,ITHS02997,,,,current_only,
+ITHS02082,ITHS03113,,,,current_only,
+ITHS02089,ITHS03137,ferrovia_pisa_vada,18630101,,dated_line,ferrovia Pisa-Vada
+ITHS02094,ITHS02921,,,,current_only,
+ITHS02101,ITHS03134,,,,current_only,
+ITHS02114,ITHS02807,,,,current_only,
+ITHS02120,ITHS02631,,,,current_only,
+ITHS02122,ITHS02668,,,,current_only,
+ITHS02126,ITHS02920,,,,current_only,
+ITHS02130,ITHS02658,,,,current_only,
+ITHS02130,ITHS02944,,,,current_only,
+ITHS02137,ITHS03158,,,,current_only,
+ITHS02144,ITHS02890,ferrovia_seregno_bergamo,18880101,,dated_line,ferrovia Seregno-Bergamo
+ITHS02152,ITHS02527,,,,current_only,
+ITHS02153,ITHS02966,,,,current_only,
+ITHS02153,ITHS03208,,,,current_only,
+ITHS02167,ITHS02627,ferrovia_santo_stefano_di_magra_sarzana,18970101,20030101,dated_line,ferrovia Santo Stefano di Magra-Sarzana
+ITHS02167,ITHS02639,ferrovia_santo_stefano_di_magra_sarzana,18970101,20030101,dated_line,ferrovia Santo Stefano di Magra-Sarzana
+ITHS02170,ITHS02865,,,,current_only,
+ITHS02185,ITHS02431,,,,current_only,
+ITHS02195,ITHS02215,ferrovia_treviso_portogruaro,18850101,,dated_line,ferrovia Treviso-Portogruaro
+ITHS02195,ITHS02876,ferrovia_casarsa_portogruaro,18880101,,dated_line,ferrovia Casarsa-Portogruaro
+ITHS02201,ITHS02998,,,,current_only,
+ITHS02202,ITHS02915,,,,current_only,
+ITHS02207,ITHS03190,,,,current_only,
+ITHS02208,ITHS02543,,,,current_only,
+ITHS02209,ITHS02328,,,,current_only,
+ITHS02214,ITHS02661,,,,current_only,
+ITHS02219,ITHS02373,,,,current_only,
+ITHS02222,ITHS02842,,,,current_only,
+ITHS02237,ITHS02732,,,,current_only,
+ITHS02252,ITHS02727,,,,current_only,
+ITHS02281,ITHS02282,,,,current_only,
+ITHS02284,ITHS02409,ferrovia_milano_bologna,18610101,,dated_line,ferrovia Milano-Bologna
+ITHS02289,ITHS03196,,,,current_only,
+ITHS02292,ITHS02637,ferrovia_saronno_novara,18870101,,dated_line,ferrovia Saronno-Novara
+ITHS02297,ITHS03076,ferrovia_domodossola_milano,18600101,,dated_line,ferrovia Domodossola-Milano
+ITHS02308,ITHS02317,,,,current_only,
+ITHS02308,ITHS02466,,,,current_only,
+ITHS02327,ITHS02721,,,,current_only,
+ITHS02328,ITHS02966,,,,current_only,
+ITHS02338,ITHS03118,ferrovia_brescia_cremona,18660101,,dated_line,ferrovia Brescia-Cremona
+ITHS02339,ITHS02353,,,,current_only,
+ITHS02339,ITHS03116,,,,current_only,
+ITHS02341,ITHS02342,,,,current_only,
+ITHS02341,ITHS02688,,,,current_only,
+ITHS02366,ITHS02368,,,,current_only,
+ITHS02366,ITHS02369,,,,current_only,
+ITHS02367,ITHS02370,,,,current_only,
+ITHS02368,ITHS02369,,,,current_only,
+ITHS02368,ITHS02371,,,,current_only,
+ITHS02369,ITHS02371,,,,current_only,
+ITHS02376,ITHS02851,ferrovia_verona_modena,18510101,,dated_line,ferrovia Verona-Modena
+ITHS02385,ITHS02395,,,,current_only,
+ITHS02391,ITHS03039,ferrovia_tirrenica,18590101,,dated_line,ferrovia Tirrenica
+ITHS02399,ITHS02489,,,,current_only,
+ITHS02399,ITHS02635,,,,current_only,
+ITHS02403,ITHS02613,,,,current_only,
+ITHS02406,ITHS03056,,,,current_only,
+ITHS02436,ITHS02703,,,,current_only,
+ITHS02454,ITHS02601,,,,current_only,
+ITHS02472,ITHS02772,,,,current_only,
+ITHS02477,ITHS02862,,,,current_only,
+ITHS02496,ITHS03138,ferrovia_vicenza_treviso,18770101,,dated_line,ferrovia Vicenza-Treviso
+ITHS02525,ITHS02530,,,,current_only,
+ITHS02543,ITHS02675,,,,current_only,
+ITHS02559,ITHS02574,,,,current_only,
+ITHS02560,ITHS02961,,,,current_only,
+ITHS02590,ITHS02718,ferrovia_casarsa_portogruaro,18880101,,dated_line,ferrovia Casarsa-Portogruaro
+ITHS02595,ITHS02779,,,,current_only,
+ITHS02611,ITHS02792,,,,current_only,
+ITHS02616,ITHS02683,,,,current_only,
+ITHS02623,ITHS02853,,,,current_only,
+ITHS02625,ITHS03016,,,,current_only,
+ITHS02627,ITHS03128,ferrovia_pontremolese,18920101,,dated_line,ferrovia Pontremolese
+ITHS02630,ITHS02656,,,,current_only,
+ITHS02638,ITHS02945,,,,current_only,
+ITHS02638,ITHS03058,,,,current_only,
+ITHS02659,ITHS02913,,,,current_only,
+ITHS02661,ITHS03108,,,,current_only,
+ITHS02691,ITHS02748,,,,current_only,
+ITHS02698,ITHS02771,,,,current_only,
+ITHS02717,ITHS03045,,,,current_only,
+ITHS02718,ITHS02876,,,,current_only,
+ITHS02735,ITHS02803,ferrovia_sibari_cosenza,18760101,,dated_line,ferrovia Sibari-Cosenza
+ITHS02735,ITHS02948,ferrovia_jonica,18660101,,dated_line,ferrovia Jonica
+ITHS02750,ITHS02964,,,,current_only,
+ITHS02772,ITHS02878,,,,current_only,
+ITHS02778,ITHS03120,ferrovia_milano_venezia,18420101,,dated_line,ferrovia Milano-Venezia
+ITHS02798,ITHS02874,,,,current_only,
+ITHS02803,ITHS02862,,,,current_only,
+ITHS02811,ITHS02889,,,,current_only,
+ITHS02817,ITHS02987,,,,current_only,
+ITHS02837,ITHS02954,,,,current_only,
+ITHS02871,ITHS03138,,,,current_only,
+ITHS02886,ITHS02969,,,,current_only,
+ITHS02918,ITHS02949,,,,current_only,
+ITHS02928,ITHS03045,,,,current_only,
+ITHS02933,ITHS02936,ferrovia_torino_genova,18480101,,dated_line,ferrovia Torino-Genova
+ITHS02935,ITHS02938,,,,current_only,
+ITHS02943,ITHS02944,,,,current_only,
+ITHS02945,ITHS03052,,,,current_only,
+ITHS02948,ITHS03186,,,,current_only,
+ITHS02970,ITHS03098,,,,current_only,
+ITHS02979,ITHS03186,,,,current_only,
+ITHS02995,ITHS02997,ferrovia_treviglio_cremona,18630101,,dated_line,ferrovia Treviglio-Cremona
+ITHS02997,ITHS03141,ferrovia_milano_venezia,18420101,,dated_line,ferrovia Milano-Venezia
+ITHS03013,ITHS03189,ferrovia_torino_fossano_savona,18480101,,dated_line,Ferrovia Torino-Fossano-Savona
+ITHS03052,ITHS03064,,,,current_only,
+ITHS03056,ITHS03140,,,,current_only,
+ITHS03061,ITHS03062,,,,current_only,
+ITHS03083,ITHS03084,,,,current_only,
+ITHS03120,ITHS03122,ferrovia_milano_venezia,18420101,,dated_line,ferrovia Milano-Venezia

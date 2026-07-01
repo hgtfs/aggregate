@@ -1,0 +1,12 @@
+event_id,date,end_date,name,description,period_uri
+us:e1,18270228,,Baltimore & Ohio Railroad chartered,First US common-carrier railroad chartered.,
+us:e2,18301225,,First scheduled US steam service,South Carolina Canal & Rail Road runs the 'Best Friend of Charleston'.,
+us:e3,18500920,,Illinois Central land grant,First federal railroad land-grant act.,
+us:e4,18610412,18650409,American Civil War,Rail networks become strategic infrastructure; Southern lines heavily damaged.,
+us:e5,18620701,,Pacific Railway Act,Authorises the first transcontinental railroad.,
+us:e6,18690510,,First Transcontinental Railroad completed,"Golden Spike driven at Promontory Summit, Utah.",
+it:e_first_railway,18391003,,Prima ferrovia italiana,Napoli–Portici: primo tratto ferroviario della penisola.,
+it:e_unification,18610317,,Unità d'Italia,Proclamazione del Regno d'Italia; reti regionali ereditate da integrare.,http://n2t.net/ark:/99152/p06c6g36wh7
+it:e_conventions,18850701,,Convenzioni ferroviarie,"Riorganizzazione in tre reti private: Mediterranea, Adriatica, Sicula.",
+it:e_fs,19050701,,Nascita delle Ferrovie dello Stato,Statalizzazione (legge Fortis): FS assume le grandi reti private.,
+it:e_wwi,19150524,19181104,Prima guerra mondiale,Fronte italiano; la rete ferroviaria sotto massimo sforzo logistico.,http://n2t.net/ark:/99152/p06c6g39ptz

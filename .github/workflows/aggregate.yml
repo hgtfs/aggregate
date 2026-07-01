@@ -1,0 +1,45 @@
+name: Aggregate HGTFS
+
+# Rebuild the aggregated feed when the descriptor or a vendored source changes,
+# weekly to pick up upstream changes in remote sources, or on demand.
+on:
+  push:
+    paths:
+      - "sources.json"
+      - "sources/**"
+      - "aggregate.py"
+      - ".github/workflows/aggregate.yml"
+  schedule:
+    - cron: "0 4 * * 1"     # Mondays 04:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggregate
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Build aggregate feed
+        run: python3 aggregate.py
+
+      - name: Commit refreshed feed if it changed
+        run: |
+          git config user.name "hgtfs-aggregate-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add hgtfs hgtfs.zip
+          if git diff --cached --quiet; then
+            echo "Aggregate unchanged."
+          else
+            git commit -m "Rebuild aggregate feed [skip ci]"
+            git push
+          fi

@@ -1,0 +1,26 @@
+{
+  "feed": {
+    "publisher_name": "HGTFS Aggregate — global rail history",
+    "publisher_url": "https://hgtfs.github.io/",
+    "lang": "en",
+    "version": "hgtfs-aggregate"
+  },
+  "id_separator": ":",
+  "sources": [
+    {
+      "id": "us",
+      "name": "United States — Railroads and the Making of Modern America (1840–1870)",
+      "type": "github",
+      "repo": "openhistorymap/us_trains",
+      "ref": "main",
+      "path": "hgtfs"
+    },
+    {
+      "id": "it",
+      "name": "Italy — historical railway network (1839–1930)",
+      "type": "local",
+      "path": "sources/it",
+      "note": "Vendored: this feed is not published as its own repo yet. Move to type github/zip once it is."
+    }
+  ]
+}
