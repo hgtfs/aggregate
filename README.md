@@ -70,7 +70,10 @@ python3 aggregate.py            # uses sources.json; needs network for remote so
 A GitHub Action ([`.github/workflows/aggregate.yml`](.github/workflows/aggregate.yml))
 re-runs this weekly, on changes to `sources.json` / `sources/**` / `aggregate.py`,
 and on demand, committing the refreshed `hgtfs/` back to the repo — so the global
-feed tracks its upstream sources automatically.
+feed tracks its upstream sources automatically. It also **purges the jsDelivr CDN
+cache** ([`purge_jsdelivr.py`](purge_jsdelivr.py)): the sources *before* building
+(so the rebuild fetches fresh inputs, not jsDelivr's hours-old copies) and this
+aggregate *after* committing (so the viewer loads the update immediately).
 
 ## Notes
 
