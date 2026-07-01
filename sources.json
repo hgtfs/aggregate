@@ -18,9 +18,10 @@
     {
       "id": "it",
       "name": "Italy — historical railway network (1839–1930)",
-      "type": "local",
-      "path": "sources/it.zip",
-      "note": "Vendored as a zip (so the viewer's feed matcher ignores it). Not yet published as its own repo — move to type github/zip once it is."
+      "type": "github",
+      "path": "openhistorymap/italia_treni",
+      "ref": "main",
+      "path": "/"
     }
   ]
 }
