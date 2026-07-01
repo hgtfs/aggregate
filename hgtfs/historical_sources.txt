@@ -2,4 +2,4 @@ source_id,source_name,source_author,source_year,source_url,source_type,source_no
 us:rrmma-lines,"Railroads and the Making of Modern America - US railroad GIS, snapshots 1840-1870","William G. Thomas et al., University of Nebraska-Lincoln",2012,https://railroads.unl.edu/,5,Scholarly GIS compilation of historical US railroad lines (shapefiles by year).
 us:rrmma-depots,"RRMMA Southern depots, junctions and endpoints",University of Nebraska-Lincoln,2012,https://railroads.unl.edu/,5,Point layers for the US South; station names from the label layer.
 us:_source,United States — Railroads and the Making of Modern America (1840–1870),,,https://github.com/openhistorymap/us_trains,5,Aggregated HGTFS source 'us'.
-it:_source,Italy — historical railway network (1839–1930),,,,5,Aggregated HGTFS source 'it'.
+it:_source,Italy — historical railway network (1839–1930),,,https://github.com/openhistorymap/italia_treni,5,Aggregated HGTFS source 'it'.
