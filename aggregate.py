@@ -64,25 +64,35 @@ def basename_kind(name):
     return None
 
 
+def tables_from_zip(zbytes, tables):
+    z = zipfile.ZipFile(io.BytesIO(zbytes))
+    for n in z.namelist():
+        k = basename_kind(n)
+        if k and k not in tables:
+            tables[k] = read_rows(z.read(n).decode("utf-8", "replace"))
+
+
 def load_source(src):
-    """Return {kind: [rows]} for one source (github repo, zip url, or local)."""
+    """Return {kind: [rows]} for one source. type: github | zip | local.
+    A local path may be a directory or a .zip file (vendored sources are zipped
+    so the viewer's feed-file matcher doesn't pick them up as loose feeds)."""
     typ = src.get("type", "github")
     tables = {}
     if typ == "zip":
-        z = zipfile.ZipFile(io.BytesIO(fetch_bytes(src["url"])))
-        for n in z.namelist():
-            k = basename_kind(n)
-            if k and k not in tables:
-                tables[k] = read_rows(z.read(n).decode("utf-8", "replace"))
+        tables_from_zip(fetch_bytes(src["url"]), tables)
     elif typ == "local":
         base = src["path"] if os.path.isabs(src["path"]) else os.path.join(HERE, src["path"])
-        for k in FILES:
-            for ext in ("txt", "csv"):
-                p = os.path.join(base, f"{k}.{ext}")
-                if os.path.exists(p):
-                    with open(p, encoding="utf-8") as f:
-                        tables[k] = read_rows(f.read())
-                    break
+        if base.endswith(".zip") and os.path.isfile(base):
+            with open(base, "rb") as f:
+                tables_from_zip(f.read(), tables)
+        else:
+            for k in FILES:
+                for ext in ("txt", "csv"):
+                    p = os.path.join(base, f"{k}.{ext}")
+                    if os.path.exists(p):
+                        with open(p, encoding="utf-8") as f:
+                            tables[k] = read_rows(f.read())
+                        break
     else:  # github via jsDelivr CDN
         repo, ref = src["repo"], src.get("ref", "main")
         path = src.get("path", "").strip("/")
@@ -181,12 +191,16 @@ def build(sources_path):
                     fi.get("lang", "en"), lo, hi,
                     fi.get("version", "hgtfs-aggregate")])
 
-    # zip the archive
+    # zip the archive — deterministic (fixed timestamps, sorted) so CI only
+    # commits when the data actually changes, not on every rebuild.
     zpath = os.path.join(HERE, "hgtfs.zip")
     with zipfile.ZipFile(zpath, "w", zipfile.ZIP_DEFLATED) as z:
         for name in sorted(os.listdir(OUT)):
             if name.endswith(".txt"):
-                z.write(os.path.join(OUT, name), name)
+                zi = zipfile.ZipInfo(name, date_time=(1980, 1, 1, 0, 0, 0))
+                zi.compress_type = zipfile.ZIP_DEFLATED
+                with open(os.path.join(OUT, name), "rb") as fh:
+                    z.writestr(zi, fh.read())
 
     n_src = len(cfg["sources"])
     print(f"\nAggregated {n_src} source(s) -> {OUT}/  span {lo[:4]}–{hi[:4]}")
