@@ -10,8 +10,3 @@ it:e_unification,18610317,,Unità d'Italia,Proclamazione del Regno d'Italia; ret
 it:e_conventions,18850701,,Convenzioni ferroviarie,"Riorganizzazione in tre reti private: Mediterranea, Adriatica, Sicula.",
 it:e_fs,19050701,,Nascita delle Ferrovie dello Stato,Statalizzazione (legge Fortis): FS assume le grandi reti private.,
 it:e_wwi,19150524,19181104,Prima guerra mondiale,Fronte italiano; la rete ferroviaria sotto massimo sforzo logistico.,http://n2t.net/ark:/99152/p06c6g39ptz
-cliwoc:e1,16520101,16740101,Anglo-Dutch Wars,Series of naval wars between England and the Dutch Republic.,
-cliwoc:e2,17560101,17630101,Seven Years' War,Global conflict reshaping colonial trade routes.,
-cliwoc:e3,17761231,,US Declaration of Independence,New flag enters Atlantic shipping.,
-cliwoc:e4,18051021,,Battle of Trafalgar,British naval dominance secured for the era.,
-cliwoc:e5,18150101,,End of the Napoleonic Wars,Return to peacetime maritime trade.,

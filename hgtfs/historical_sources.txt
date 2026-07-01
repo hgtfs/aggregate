@@ -3,5 +3,3 @@ us:rrmma-lines,"Railroads and the Making of Modern America - US railroad GIS, sn
 us:rrmma-depots,"RRMMA Southern depots, junctions and endpoints",University of Nebraska-Lincoln,2012,https://railroads.unl.edu/,5,Point layers for the US South; station names from the label layer.
 us:_source,United States — Railroads and the Making of Modern America (1840–1870),,,https://github.com/openhistorymap/us_trains,5,Aggregated HGTFS source 'us'.
 it:_source,Italy — historical railway network (1839–1930),,,https://github.com/openhistorymap/italia_treni,5,Aggregated HGTFS source 'it'.
-cliwoc:cliwoc,CLIWOC — Climatological Database for the World's Oceans,"García-Herrera, Können, Wheeler, Prieto, Jones, Koek et al.",2005,https://cliwoc.org/,1,"Digitised naval logbooks (Dutch, British, Spanish, French, …), 1662-1855."
-cliwoc:_source,World oceans — CLIWOC ship logbooks (1662–1855),,,https://github.com/openhistorymap/cliwoc,5,Aggregated HGTFS source 'cliwoc'.
